@@ -6,9 +6,9 @@ const Layout = () => {
     <>
       <StyledLayout/>
         <header>
-          <NavLink to='/weather'>Weather</NavLink>
-          <NavLink to='/table'>Table</NavLink>
-          <NavLink to='/chart'>Chart</NavLink>
+          <NavLink to='/weather'>Погода</NavLink>
+          <NavLink to='/table'>Таблица</NavLink>
+          <NavLink to='/chart'>График</NavLink>
         </header>
         <main>
 
