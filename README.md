@@ -31,4 +31,4 @@ Click on "Get weather" button and get result
 ---
 ## README
 
-1. [RU - ru](public/README-RU.md)
+1. [RU - ru](README-RU.md)
