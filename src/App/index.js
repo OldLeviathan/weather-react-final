@@ -9,8 +9,7 @@ import Table from "../Pages/Table";
 
 import axios from "axios";
 
-
-const API_KEY = '8c625c180aee6040b1253fc7c17313c0'
+const API_KEY = process.env.REACT_APP_KEY
 
 function App() {
 
