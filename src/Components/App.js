@@ -2,11 +2,10 @@ import React, {useState} from "react";
 import {Routes, Route} from "react-router-dom";
 
 
-import Chart from "../Pages/Chart";
-import Form from "../Pages/Form";
-import Layout from "../Layout";
-import Table from "../Pages/Table";
-
+import Chart from "./Pages/Chart";
+import Form from "./Pages/Form";
+import Layout from "./Layout";
+import Table from "./Pages/Table";
 import axios from "axios";
 
 const API_KEY = process.env.REACT_APP_KEY
